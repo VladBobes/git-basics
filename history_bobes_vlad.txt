@@ -59,3 +59,25 @@ git push
 history -w
 ./history_bobes_vlad.txt
 history -w ./history_bobes_vlad.txt
+ls
+git add .
+git commit -m "commit"
+git push
+git status
+git config --global push.default simple
+git push
+git push --set-upstream origin newb1
+git push
+git push --set-upstream origin newb1
+git merge
+git merge HEAD
+git merge newb1
+git merge newb1 master
+git merge master newb1
+git merge v1.0
+git merge resolve
+git checkout master
+git merge br1
+git merge newb1
+git push
+history -w ./history_bobes_vlad.txt
