@@ -1,0 +1,61 @@
+brew
+homebrew
+sudo
+sudo yum install git
+git --v
+git --version
+git config --global user.name "Vlad Bobes"
+git config --global user.email "vlad.bobes22@gmail.com"
+git.config --list
+git config --list
+ls
+cd Facultate
+md Facultate
+mkdir Facultate
+cd Facultate/
+clone https://github.com/VladBobes/git-basics.git
+git clone https://github.com/VladBobes/git-basics.git
+fi
+nano 
+sudo yum install nano
+ls
+cd git-basics/
+ls
+nano myfile1.txt
+ls
+git add .
+git commit -m "My first commit."
+git push
+git checkout -b br1
+ls
+git merge
+ls
+git pull
+ls
+git pull origin master
+ls
+git merge
+git status
+nano fis1.txt
+git add .
+git commit -m "a."
+git push
+git merge
+git checkout master
+git pull
+git checkout -b newb1
+nano fisier.txt
+git add .
+git commit -m "One more."
+git push
+git merge
+git merge newb1 master
+git merge
+git merge commit
+git merge head
+git merge HEAD
+git status
+git push
+history -w
+./history_bobes_vlad.txt
+history -w ./history_bobes_vlad.txt
